@@ -1,0 +1,24 @@
+{
+  "name": "com.sbuplakankus.scene-bootstrap",
+  "version": "1.0.0",
+  "displayName": "Scene Bootstrap",
+  "description": "Quickly create organized scene hierarchy structures in Unity",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/sbuplakankus/unity-scene-bootstrapper",
+  "changelogUrl": "https://github.com/sbuplakankus/unity-scene-bootstrapper/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/sbuplakankus/unity-scene-bootstrapper/blob/main/LICENSE",
+  "keywords": [
+    "editor",
+    "tool",
+    "hierarchy",
+    "organization",
+    "productivity",
+    "scene",
+    "bootstrap"
+  ],
+  "author": {
+    "name": "SBUplakankus",
+    "url": "https://github.com/sbuplakankus"
+  }
+}
