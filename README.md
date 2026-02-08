@@ -1,6 +1,12 @@
-# Scene Bootstrap for Unity
+# Unity Scene Bootstrap
 
-Scene Bootstrap is a lightweight Unity Editor tool that automates the creation of organized scene hierarchy structures. It removes the repetitive setup work involved in creating empty GameObjects for new scenes while remaining flexible and non-opinionated.
+[![GitHub](https://img.shields.io/github/license/sbuplakankus/unity-scene-bootstrapper)](LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/sbuplakankus/unity-scene-bootstrapper)](https://github.com/sbuplakankus/unity-scene-bootstrapper/releases)
+[![Unity](https://img.shields.io/badge/unity-2020.3%2B-blue.svg)](https://unity3d.com/get-unity/download)
+[![GitHub issues](https://img.shields.io/github/issues/sbuplakankus/unity-scene-bootstrapper)](https://github.com/sbuplakankus/unity-scene-bootstrapper/issues)
+[![GitHub stars](https://img.shields.io/github/stars/sbuplakankus/unity-scene-bootstrapper)](https://github.com/sbuplakankus/unity-scene-bootstrapper/stargazers)
+
+A lightweight Unity Editor tool that automates creation of organized scene hierarchy structures with one click.
 
 The tool is editor-only, adds no runtime dependencies, and creates only empty GameObjects.
 
