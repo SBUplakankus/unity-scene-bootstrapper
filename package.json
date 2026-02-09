@@ -1,5 +1,5 @@
 {
-  "name": "com.sbuplakankus.scene-bootstrap",
+  "name": "com.massivemeltmedia.scene-bootstrap",
   "version": "1.0.0",
   "displayName": "Scene Bootstrap",
   "description": "Quickly create organized scene hierarchy structures in Unity",
@@ -18,12 +18,12 @@
     "bootstrap"
   ],
   "author": {
-    "name": "SBUplakankus",
-    "url": "https://github.com/sbuplakankus"
+    "name": "Massive Melt Media",
+    "url": "https://github.com/SBUplakankus"
   },
   "repository": {
     "url": "https://github.com/SBUplakankus/unity-scene-bootstrapper.git",
     "type": "git",
-    "revision": "b50c23a75b0c48b71c4ebe74d7228fbe1342b12b"
+    "revision": "ffcb0b618e280b57dc3abc22a92f680d77a07165"
   }
 }
